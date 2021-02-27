@@ -1,0 +1,14 @@
+                Testes Automatizados
+
+1 - Testes Unitários
+    - Nas Menores partes de uma aplicação
+
+2 - Testes de Integração
+
+     request ➡️ routes ➡️ controller ➡️ repository
+      ⬆️                                        ⬇️                                  
+     repository ⬅️ controller ⬅️ routes ⬅️ request
+
+
+3 - Ponta a Ponta (E2E)
+    - Front-end
